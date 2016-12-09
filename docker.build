@@ -1,0 +1,1 @@
+docker build -t postgres-pathman:0.1 .
